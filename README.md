@@ -44,6 +44,8 @@ It allows students to apply to multiple U.S. universities through a single platf
 - Over **12,000 lines of code** s.
 
 <h2><b>🎬 Here’s a detailed flow of the system in action:</b></h2>
+
+
 https://github.com/user-attachments/assets/fae6f6b9-f43e-432e-9e8e-ff4917b0c055
 
 
@@ -51,6 +53,14 @@ https://github.com/user-attachments/assets/fae6f6b9-f43e-432e-9e8e-ff4917b0c055
 
 
 <img width="3799" height="2165" alt="Screenshot 2025-10-17 230449" src="https://github.com/user-attachments/assets/8d66bf79-a6b3-4d09-a885-3a5531904457" />
+
 <img width="3837" height="2291" alt="Screenshot 2025-10-17 230533" src="https://github.com/user-attachments/assets/9d586c80-5f6e-4a10-bb1d-dd216f10836d" />
-![Uploading Screenshot 2025-10-17 225905.png…]()
+
+<img width="3836" height="2176" alt="Screenshot 2025-10-17 202727" src="https://github.com/user-attachments/assets/ad45bf46-0353-4c22-863d-0c57f5edf30e" />
+
+<img width="3794" height="2280" alt="Screenshot 2025-10-17 202328" src="https://github.com/user-attachments/assets/d3d70630-fbad-40b9-b6ce-0b5ce109d5a7" />
+
+<img width="3757" height="2157" alt="Screenshot 2025-10-17 202351" src="https://github.com/user-attachments/assets/4fd5b87b-0b69-40f2-8756-d5d3c8d1a86b" />
+
+<img width="3833" height="2260" alt="Screenshot 2025-10-17 202407" src="https://github.com/user-attachments/assets/33a3ffce-a76b-4def-a7a8-3aa20a77c362" />
 
